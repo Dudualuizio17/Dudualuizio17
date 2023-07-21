@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ABAP HXM
-- 🌱 I’m currently learning ABAP HXM, SAP FIORI, SAP UI5
+- 🔭 I’m currently working on SAP ABAP HXM
+- 🌱 I’m currently learning SAP ABAP HXM, SAP FIORI, SAP UI5
   
 
 <!-- 
