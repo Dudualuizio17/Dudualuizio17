@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ABAP HXM
 - 🌱 I’m currently learning ABAP HXM, SAP FIORI, SAP UI5
-- 
+  
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
