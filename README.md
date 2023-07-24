@@ -14,6 +14,9 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dudualuizio17&count_private=true&theme=cobalt&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudualuizio17&layout=compact&langs_count=6&hide=shell,makefile&theme=cobalt&count_private=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Dudualuizio17&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dudualuizio17&layout=compact&langs_count=8&card_width=320&theme=cobalt&count_private=true" />
+</a>
