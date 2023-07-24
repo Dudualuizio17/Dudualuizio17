@@ -15,8 +15,8 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Dudualuizio17&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=dudualuizio17&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dudualuizio17&layout=compact&langs_count=8&card_width=320&theme=cobalt&count_private=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudualuizio17&layout=compact&langs_count=8&card_width=320&theme=dracula&count_private=true" />
 </a>
